@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74f59934-244e-4da0-8287-40650dc8b156" name="Default Changelist" comment="" />
+    <list default="true" id="74f59934-244e-4da0-8287-40650dc8b156" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Produtos" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="ProjectId" id="1WEPYHleQK5T9AAps8QBjrNldFf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,6 +26,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -48,25 +60,52 @@
       <workItem from="1579045503877" duration="584000" />
       <workItem from="1579046092590" duration="14000" />
       <workItem from="1579046128473" duration="8000" />
-      <workItem from="1579046150274" duration="299000" />
+      <workItem from="1579046150274" duration="3348000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="746" y="258" key="FileChooserDialogImpl" timestamp="1579044267457">
+    <state x="746" y="258" key="FileChooserDialogImpl" timestamp="1579047476680">
       <screen x="0" y="0" width="1920" height="1025" />
     </state>
-    <state x="746" y="258" key="FileChooserDialogImpl/0.0.1920.1025@0.0.1920.1025" timestamp="1579044267457" />
+    <state x="746" y="258" key="FileChooserDialogImpl/0.0.1920.1025@0.0.1920.1025" timestamp="1579047476680" />
+    <state x="701" y="364" key="Github.CreatePullRequestDialog" timestamp="1579047438294">
+      <screen x="0" y="0" width="1920" height="1025" />
+    </state>
+    <state x="701" y="364" key="Github.CreatePullRequestDialog/0.0.1920.1025@0.0.1920.1025" timestamp="1579047438294" />
     <state x="444" y="136" key="SettingsEditor" timestamp="1579044478176">
       <screen x="0" y="0" width="1920" height="1025" />
     </state>
     <state x="444" y="136" key="SettingsEditor/0.0.1920.1025@0.0.1920.1025" timestamp="1579044478176" />
+    <state x="558" y="236" key="Vcs.Push.Dialog.v2" timestamp="1579047375531">
+      <screen x="0" y="0" width="1920" height="1025" />
+    </state>
+    <state x="558" y="236" key="Vcs.Push.Dialog.v2/0.0.1920.1025@0.0.1920.1025" timestamp="1579047375531" />
     <state x="614" y="339" key="com.intellij.ide.util.TipDialog" timestamp="1579046128592">
       <screen x="0" y="0" width="1920" height="1025" />
     </state>
     <state x="614" y="339" key="com.intellij.ide.util.TipDialog/0.0.1920.1025@0.0.1920.1025" timestamp="1579046128592" />
+    <state x="728" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579047391661">
+      <screen x="0" y="0" width="1920" height="1025" />
+    </state>
+    <state x="728" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1025@0.0.1920.1025" timestamp="1579047391661" />
+    <state x="260" y="70" key="new project wizard" timestamp="1579092707782">
+      <screen x="0" y="0" width="1920" height="1025" />
+    </state>
+    <state x="260" y="70" key="new project wizard/0.0.1920.1025@0.0.1920.1025" timestamp="1579092707782" />
   </component>
 </project>

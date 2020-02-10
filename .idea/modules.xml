@@ -2,7 +2,23 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Produtos.iml" filepath="$PROJECT_DIR$/Produtos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Area_Triangulos/Area_Triangulos.iml" filepath="$PROJECT_DIR$/Area_Triangulos/Area_Triangulos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composicao/Composicao.iml" filepath="$PROJECT_DIR$/Composicao/Composicao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composicao2_StringBuilder/Composicao2_StringBuilder.iml" filepath="$PROJECT_DIR$/Composicao2_StringBuilder/Composicao2_StringBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Datas/Datas.iml" filepath="$PROJECT_DIR$/Datas/Datas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulamento_exercicio/Encapsulamento_exercicio.iml" filepath="$PROJECT_DIR$/Encapsulamento_exercicio/Encapsulamento_exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enumeraçoes/Enumeraçoes.iml" filepath="$PROJECT_DIR$/Enumeraçoes/Enumeraçoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Final/Final.iml" filepath="$PROJECT_DIR$/Final/Final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heranca/Heranca.iml" filepath="$PROJECT_DIR$/Heranca/Heranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas/Listas.iml" filepath="$PROJECT_DIR$/Listas/Listas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Matrizes/Matrizes.iml" filepath="$PROJECT_DIR$/Matrizes/Matrizes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Membros_estaticos/Membros_estaticos.iml" filepath="$PROJECT_DIR$/Membros_estaticos/Membros_estaticos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Membros_estaticos_2/Membros_estaticos_2.iml" filepath="$PROJECT_DIR$/Membros_estaticos_2/Membros_estaticos_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Override/Override.iml" filepath="$PROJECT_DIR$/Override/Override.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polimorfismo/Polimorfismo.iml" filepath="$PROJECT_DIR$/Polimorfismo/Polimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Produtos/Produtos.iml" filepath="$PROJECT_DIR$/Produtos/Produtos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rectangulo/Rectangulo.iml" filepath="$PROJECT_DIR$/Rectangulo/Rectangulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vetores/Vetores.iml" filepath="$PROJECT_DIR$/Vetores/Vetores.iml" />
     </modules>
   </component>
 </project>

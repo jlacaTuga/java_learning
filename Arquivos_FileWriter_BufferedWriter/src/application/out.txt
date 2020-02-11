@@ -1,0 +1,6 @@
+Good morning
+Good afternoon
+Good night
+Bom dia
+Boa tarde
+boa noite
